@@ -1,4 +1,4 @@
-# Clang-and-Binutils-for-ARM64-platforms
+# Clang and Binutils for ARM64 platforms
 
 arm64设备上可用的clang和binutils
 
